@@ -1,7 +1,6 @@
 ---
-title: "Daniel T. Kaplan"
-description: |
-   
+title: " "
+description: "Home page for Danny Kaplan"
 site: distill::distill_website
 ---
 
@@ -13,24 +12,24 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-## Current projects
+### Current projects
 
 - Applied Calculus
 - [Stats for Data Science](https://dtkaplan.github.io/SDS-book/)
 
 
-## Blogs
+### Blogs
 
 - Remodeling Statistics
 - Calculus Notes
 
-## Books
+### Books
 
 - [*Compact Guide to Classical Inference*](https://dtkaplan.github.io/CompactInference/)
 - [*Statistical Modeling: A Fresh Approach*](https://dtkaplan.github.io/SDS-book)
 - [*Data Computing*](https://dtkaplan.github.io/DataComputingEbook/)
 
-## Software
+### Software
 
 - `{mosaic}`
     - `{mosaicCalc}`
@@ -39,4 +38,4 @@ knitr::opts_chunk$set(echo = FALSE)
 - `{etude}`
 - `{LittleApps}`
 
-## Publications
+### Publications
