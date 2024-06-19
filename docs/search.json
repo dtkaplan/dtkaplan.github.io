@@ -60,21 +60,21 @@
     "href": "index.html",
     "title": "Home page for Prof. Daniel T. Kaplan",
     "section": "",
-    "text": "If you are looking for the mathematics/statistics educator, you’re at the right site!"
-  },
-  {
-    "objectID": "index.html#background",
-    "href": "index.html#background",
-    "title": "Home page for Prof. Daniel T. Kaplan",
-    "section": "Background",
-    "text": "Background"
+    "text": "This is my professional home page. The links in the menu bar will take you to my CV and publications, etc."
   },
   {
     "objectID": "index.html#current-projects",
     "href": "index.html#current-projects",
     "title": "Home page for Prof. Daniel T. Kaplan",
     "section": "Current projects",
-    "text": "Current projects"
+    "text": "Current projects\n\nStatistics\nLessons in Statistical Thinking (LST) is my attempt to encourage the statistics education community to rethink what ought to be taught in introductory statistics to prepare students for work in the 21st century. The standard intro course covers topics from the early 1900s, doesn’t engage modern computing, data science, or essential topics of causality. LST is a student-facing textbook that provides motivated instructors a path to move away from the standard intro course.\n\n\nApplied mathematics\nMOSAIC Calculus tries to fix a century-long problem in math education at the college level. Almost universally, calculus is taught in a manner that creates obstacles to students rather than insight and opportunity. The traditional (and still dominant) curriculum sprawls across four or five semesters, with the most important topics left to the end: functions of multiple variables, linear algebra, and dynamics. Only lip service is paid to modeling, one of the most important phases in using mathematics. Modeling refers to translating real-world situations into a mathematical representation that can be easily worked with to extract information and answers.\nTo become accessible and useful to students, the important topics and modeling should be covered from the start. Modern computational techniques should be used to avoid obscure algebraic manipulations. And meaningful connections should be made to data science and statistics.\nThe topics and techniques of calculus should be covered in a compact way that occupies only one or two semesters of a student’s time and do not rely on algebraic skills that mainstream students do not have and have never had. MOSAIC Calculus is a demonstration that this can be done."
+  },
+  {
+    "objectID": "index.html#interviews",
+    "href": "index.html#interviews",
+    "title": "Home page for Prof. Daniel T. Kaplan",
+    "section": "Interviews",
+    "text": "Interviews\nI’ve been fortunate to have been interviewed on a couple of occasions about my approach to applied mathematics and statistics.\n\n2017, Allan Rossman’s interview with me for the Journal of Statistics Education\n2023, John Bailer’s Stats & Stories Podcast (at time 16:43 to the end)."
   },
   {
     "objectID": "about.html",
