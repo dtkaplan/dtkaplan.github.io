@@ -1,0 +1,112 @@
+---
+title: "Daniel T. Kaplan"
+subtitle: "Curriculum Vitae, June 2024"
+format:
+  html:
+    toc: true
+---
+
+
+ | 
+------:|:------------
+email | dtkaplan@gmail.com
+github | dtkaplan
+website | danielkaplan.org
+
+## Professional Summary
+
+My career has spanned several periods: a biomedical-engineering period when I was involved in signal processing using emerging tools from nonlinear dynamics, a physiology period as a researcher and a teacher of pre-medical physiology and biology courses, a period as an applied-mathematics/computational-science educator which has segued into statistics, statistical modeling, data science, and machine learning. In each of these periods, I have developed texts and other learning materials across a variety of fields: introductory statistics, computational-statistics & data-science, introductory calculus (taught as an applied  subject), computer programming, and epidemiology. Over the past 15 years, I have worked extensively with faculty from colleges nationwide to develop their professional and computational skills in teaching the core mathematics curriculum and statistics in a genuinely applied way. I have a national and international reputation for this work. [This interview from the *Journal of Statistics Education*](https://www.dropbox.com/s/xd94rfyuwaprhbs/JSE-interview.pdf?dl=0) captures much of the motivation and philosophy behind this work.
+
+A constant throughout my career has been computation. I learned to program as a 14-year old and  have worked professionally with a large variety of languages including (in roughly chronological order) BASIC, FORTRAN, APL, UNIX web scripting, C, Mathematica, C++, Scheme, MATLAB, and R, and the many auxiliary systems relating to typesetting, publishing, graphics, and websites. It can't be known for sure, but I am likely the first person in North America to teach introductory statistics with R (starting 1997), and I was one of the earliest course developers in Mathematica (circa 1990).
+
+<!-- Interview with Joe Cheng referring to my involvement with RStudio https://www.youtube.com/watch?v=elG0gvnaSIs&feature=youtu.be at 7:25 -->
+
+## Employment
+
+<!-- --> | <!-- --> | <!-- -->
+:-----|:-------------|:--------
+2020-2023 | **Academy Research and Development Institute (ARDI) Distinguished Visiting Professor and Coors Chair** | United States Air Force Academy
+2021-present | **DeWitt Wallace Professor Emeritus** | Macalester College
+2006-2021 | **DeWitt Wallace Professor of Mathematics, Statistics, and Computer Science** | Macalester College
+2000-2006 | **Associate Professor** | Macalester College
+1997-2000 | **Assistant Professor** | Macalester College
+1994-1996 | **Assistant Professor** | McGill University Faculty of Medicine
+1991-1994 | **Post-doctoral Fellow** | McGill University Faculty of Medicine
+1989-1991 | **Scientist** | Colin Medical Instruments (Japan)
+
+## Visiting Appointments
+
+<!-- --> | <!-- --> | <!-- -->
+:-----|:-------------|:--------
+2020-2023 | United States Air Force Academy | Distinguished visiting professor
+2017 | Institute for Math and its Applications, University of Minnesota | Invited instructor
+2010 | Royal Melbourne Institute of Technology | Visiting scholar
+2008 | University of Queensland (Australia) | Visiting scholar
+2001 | Pembroke College, University of Oxford (UK) | Fellow
+1996 | Université de Paris VI | Visiting scholar
+
+## Education
+
+<!-- --> | <!-- --> | <!-- -->
+:-----|:-------------|:--------
+1986-1989 | Ph.D (biomedical physics) | Harvard University
+1984-1986 | M.S. (biomedical physics) | Harvard University
+1981-1982 | M.S. (engineering-economic systems) | Stanford University
+1977-1981 | B.A. with high honors (physics and philosophy) | Swarthmore College
+
+## Awards and Honors
+
+<!-- --> | <!-- --> | <!-- -->
+:-----|:-------------|:--------
+2020-2023 | Holland H. Coors Chair in Education Technology | ARDI Educational Excellence Foundation
+2017-onward | Daniel T Kaplan Prizes in Data Science | Three prizes endowed by faculty colleagues and alumni awarded annually to graduating Macalester seniors
+2017 | [Lifetime Achievement Award in Statistical Education](www/USCOTS-nomination.pdf) | CAUSE/USCOTS
+2006 | [Annual Excellence in Teaching Award](www/teaching_award_2006.pdf) | Macalester College
+
+## Textbooks
+
+### Statistics and Data Science
+
+1. DanielTKaplan (2024), [*Lessons in Statistical Thinking*](https://dtkaplan.github.io/Lessons-in-statistical-thinking), Project MOSAIC Books
+
+#. Benjamin S Baumer, Daniel T Kaplan, Nicholas J Horton (2017) (2nd edition in 2021), [*Modern data science with R*](https://mdsr-book.github.io), CRC Press
+
+#. Daniel T Kaplan ([Online edition 2020](https://dtkaplan.github.io/DataComputingEbook)/first edition 2016), *Data Computing: An Introduction to Wrangling and Visual-
+ization with R*, Project MOSAIC Books 
+
+#. Daniel T Kaplan (2009) (Second edition 2011, [Kindle electronic edition 2020](https://www.amazon.com/Statistical-Modeling-Approach-Project-MOSAIC-ebook/dp/B073WDBJ57/ref=dp_kinw_strp_1)) *Statistical Modeling: A Fresh Approach*, Project MOSAIC Books 
+
+#. Daniel T Kaplan (2020), [*Compact Guide to Classical Inference*](https://dtkaplan.github.io/CompactInference), StatPREP.org
+
+#. Daniel T Kaplan (1999), [*Resampling Stats in MATLAB*](https://resample.com/support/user-guides/resampling-stats-for-matlab-users-guide/), resample.com
+
+#. Colleen D Cutler & Daniel T Kaplan (eds) (1997), *Nonlinear dynamics and time series: Building a Bridge Between the Natural and Statistical Sciences*, American Mathematical Society 
+
+
+### Applied Mathematics
+
+8. Daniel T Kaplan (2022), [*MOSAIC Calculus*](https://www.mosaic-web.org/MOSAIC-Calculus/), Project MOSAIC
+
+#. Daniel T Kaplan (2013), [*Start R in Calculus*](https://www.amazon.com/Start-Calculus-Daniel-T-Kaplan/dp/0983965897), Project Mosaic Books
+
+#. Daniel T Kaplan & Leon Glass (1995), [*Understanding Nonlinear Dynamics*](https://www.amazon.com/Understanding-Nonlinear-Dynamics-Textbooks-Mathematical/dp/0387944400/ref=sr_1_1?s=books&ie=UTF8&qid=1549745821&sr=1-1&keywords=understanding+nonlinear+dynamics), Springer
+
+### Computational Science
+
+11. Daniel T Kaplan (2003), [*Introduction to Scientific Computation and Programming (in MATLAB)*](https://www.amazon.com/Introduction-Scientific-Computation-Programming-Daniel/dp/0534389139), Brooks/Cole
+
+#. Daniel T Kaplan, Simon D Levy, Kenneth A Lambert (2016), [*Introduction to Scientific Computation and Programming in Python*](https://www.amazon.com/Introduction-Scientific-Computation-Programming-Python/dp/098396582X), Project Mosaic Books
+
+### R (statistics language)
+
+13. Nicholas J Horton, Randall Pruim, Daniel T Kaplan (2015), [*Student’s Guide to R*](www/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf), Project MOSAIC Books
+
+#. Randall Pruim, Nicholas J Horton, Daniel T Kaplan (2015), [*Start Teaching with R*](www/MOSAIC-StartTeaching.pdf), Project MOSAIC Books
+
+
+
+
+
+
+
+

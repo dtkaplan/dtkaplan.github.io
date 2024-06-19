@@ -1,0 +1,6 @@
+/* css styles */
+
+thead {
+    border: thin solid red !important;
+    display: none;
+}

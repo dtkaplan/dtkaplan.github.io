@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home page for Prof. Daniel T. Kaplan",
+    "section": "",
+    "text": "If you are looking for the mathematics/statistics educator, you’re at the right site!"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Home page for Prof. Daniel T. Kaplan",
+    "section": "Background",
+    "text": "Background"
+  },
+  {
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "Home page for Prof. Daniel T. Kaplan",
+    "section": "Current projects",
+    "text": "Current projects"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Daniel Kaplan’s publications",
+    "section": "",
+    "text": "Daniel Kaplan’s publications\nI’ve arranged my publications into several different categories:\n\nTextbooks in statistics, data science, and applied math\nTeaching-related publications\nResearch publications relating to physics and physiology"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Daniel T. Kaplan",
+    "section": "",
+    "text": "email\ndtkaplan@gmail.com\n\n\ngithub\ndtkaplan\n\n\nwebsite\ndanielkaplan.org"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Daniel T. Kaplan",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nDoctor of Philosophy – Econometrics and Business Statistics  Monash University Aug 2021 — Present\n\nNew principles and methods for complex data preparation and integration, with applications to official statistics, web-scrapped data and satellite raster images\nMonash Data Futures Institute PhD Top-Up Scholarship (2021-2024)\nExpected submission date: Nov 2024"
+  },
+  {
+    "objectID": "CV.html#professional-summary",
+    "href": "CV.html#professional-summary",
+    "title": "Daniel T. Kaplan",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nMy career has spanned several periods: a biomedical-engineering period when I was involved in signal processing using emerging tools from nonlinear dynamics, a physiology period as a researcher and a teacher of pre-medical physiology and biology courses, a period as an applied-mathematics/computational-science educator which has segued into statistics, statistical modeling, data science, and machine learning. In each of these periods, I have developed texts and other learning materials across a variety of fields: introductory statistics, computational-statistics & data-science, introductory calculus (taught as an applied subject), computer programming, and epidemiology. Over the past 15 years, I have worked extensively with faculty from colleges nationwide to develop their professional and computational skills in teaching the core mathematics curriculum and statistics in a genuinely applied way. I have a national and international reputation for this work. This interview from the Journal of Statistics Education captures much of the motivation and philosophy behind this work.\nA constant throughout my career has been computation. I learned to program as a 14-year old and have worked professionally with a large variety of languages including (in roughly chronological order) BASIC, FORTRAN, APL, UNIX web scripting, C, Mathematica, C++, Scheme, MATLAB, and R, and the many auxiliary systems relating to typesetting, publishing, graphics, and websites. It can’t be known for sure, but I am likely the first person in North America to teach introductory statistics with R (starting 1997), and I was one of the earliest course developers in Mathematica (circa 1990)."
+  }
+]
