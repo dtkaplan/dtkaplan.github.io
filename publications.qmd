@@ -1,2 +1,124 @@
 # Daniel Kaplan's research publications
 
+My earliest publication, from my college days, was an analysis of defense policy and possibilities: 
+
+1. Daniel Kaplan (1983), ["Lasers for missile defense"](www/missiledefense.pdf) *The Bulletin of the Atomic Scientists* (May):5-8. 
+
+## Education
+
+For the last 30 years, my professional work has focused on university-level education in applied math and statistics. The several student-facing textbooks I have authored are listed on my [CV](CV.html#Textbooks). The following publications are from professional journals:
+
+2. Daniel Kaplan (2018), ["Teaching stats for data science"](www/TeachingStatsforDataScience.pdf) *The American Statistician* **72**(1):89–96
+
+#. Randall Pruim, Daniel T Kaplan, Nicholas J Horton (2017), ["The mosaic Package: Helping Students to ‘Think with Data’ Using R"](www/RJ-2017-024.pdf) *R Journal* **9**(1)
+
+#. DT Kaplan, C Bocovich & R Pruim (2015) ["Modeling-based Calculus with R/mosaic"](www/UMAP-mosaic-calculus.pdf), *The UMAP Journal*, **36**:1,  pp 23-51
+
+#. Daniel Kaplan (2013), ["Calculus and statistics"](www/Calculus-and-statistics.pdf) AMSTAT News (433):26
+
+#. Joan Garfield, Andrew Zieffler, Daniel Kaplan, George W Cobb, Beth L Chance, John P Holcomb (2011), ["Rethinking assessment of student learning in statistics courses"](www/TheAmericanStatistician-Feb-2011.pdf), *The American Statistician* **65**(1):1–10 
+
+#. Daniel Kaplan (2007), ["Computing and introductory statistics"](www/TISE-Oct-2007.pdf), *Technology Innovations in Statistics Education* **1**(1)
+
+## Physics
+
+8. Daniel T Kaplan, Leon Glass (1992), ["Direct test for determinism in a time series"](www/direct-test-PRL.pdf) *Physical Review Letters* **68**(4):427
+
+#. Daniel T Kaplan, John R Clay, Timothy Manning, Leon Glass, Michael R Guevara, Alvin Shrier (1996), ["Subthreshold dynamics in periodically stimulated squid giant axons"](www/subthreshold-PRL.pdf) *Physical Review Letters* 76(21):4074 
+
+#. Paul So, Edward Ott, Steven J Schiff, Daniel T Kaplan, Tim Sauer, Celso Grebogi (1996), ["Detecting unstable periodic orbits in chaotic experimental data"](www/subthreshold-PRL.pdf) *Physical Review Letters* **76**(25):4705 
+
+#. Francis X Witkowski, Katherine M Kavanagh, Patricia A Penkoske, Robert Plonsey, Mark L Spano, William L Ditto, Daniel T Kaplan (1995), ["Evidence for determinism in ventricular fibrillation"](www/evidence.pdf) *Physical Review Letters* **75**(6):1230 
+
+#. Daniel T Kaplan, John R Clay, Timothy Manning, Leon Glass, Michael R Guevara, Alvin Shrier (1996), ["Subthreshold dynamics in periodically stimulated squid giant axons"](www/subthreshold-PRL.pdf) *Physical Review Letters* **76**(21):4074 
+
+#. Daniel T Kaplan, Leon Glass (1993), ["Coarse-grained embeddings of time series: random walks, Gaussian random processes, and deterministic chaos"](www/coarse-grained_1993.pdf) *Physica D: Nonlinear Phenomena* **64**(4):431–454 link
+
+#. David J Christini and Daniel T Kaplan (2000),["Adaptive estimation and control method for unstable periodic dynamics in spike trains"](www/9901020v1.pdf) *Physical Review E* **61**(5):5149 
+
+#. Thomas Schreiber, Daniel T Kaplan (1996), ["Nonlinear noise reduction for electrocardiograms"](www/nonlinear-noise-reduction.pdf) *Chaos: An Interdisciplinary Journal of Nonlinear Science* **6**(1):87–92 link
+
+#. Christopher L Bremer, Daniel T Kaplan (2001), ["Markov chain Monte Carlo estimation of nonlinear dynamics from time series"](www/MarkovChainMonteCarloEstimationOfNonlinearDynamicsFromTimeSeries.pdf) *Physica D: Nonlinear Phenomena* **160**(1-2):116–126
+
+#. Daniel T Kaplan (1994), ["Exceptional events as evidence for determinism"](https://www.sciencedirect.com/science/article/abs/pii/0167278994902240) *Physica. D, Nonlinear phenomena* **73**(12):38–48 
+
+#. Daniel T Kaplan, Mario Talajic (1991), ["Dynamics of heart rate"](https://pubs.aip.org/aip/cha/article-abstract/1/3/251/134381/Dynamics-of-heart-rateDynamics-of-heart-rate?redirectedFrom=fulltext) *Chaos: An Interdisciplinary Journal of Nonlinear Science* **1**(3):251–256
+
+#. Daniel T Kaplan (1993), ["Evaluating deterministic structure in maps deduced from discrete-time measurements"](https://www.worldscientific.com/doi/abs/10.1142/S0218127493000519)
+*International Journal of Bifurcation and Chaos* **3**(3):617–623
+
+#. Berndt Pilgram, Daniel T Kaplan (1998), ["A comparison of estimators for 1/f noise"](www/pilgram-kaplan-hrv.pdf) *Physica-Section D* **114**(1):108–
+122
+
+#. Thomas Schreiber, Daniel T Kaplan (1996), ["Signal separation by nonlinear projections: The fetal electrocardiogram"](www/signal-separation-PhysRevE.pdf) *Physical Review E* **53**(5):R4326 
+
+#. Sarah Little, Stephen Ellner, Mercedes Pascual, Michael Neubert, Daniel Kaplan, Timothy Sauer, Hal Caswell,Andy Solow (1996), ["Detecting nonlinear dynamics in spatio-temporal systems, examples from ecological models"](https://www.sciencedirect.com/science/article/abs/pii/0167278996000309) *Physica D: Nonlinear Phenomena* **96**(1-4):321–333
+
+
+## Physiology and Medicine
+
+
+23. Philippe Faure, Daniel Kaplan, Henri Korn (2000), ["Synaptic efficacy and the transmission of complex firing patterns between neurons"](www/signal-flag-patterns.pdf) *Journal of neurophysiology* **84**(6):3010–3025 link
+
+#. Daniel T Kaplan (1994) "The analysis of variability" *Journal of cardiovascular electrophysiology* **5**(1):16–19
+
+#. DT Kaplan, MI Furman, SM Pincus, SM Ryan, LA Lipsitz, AL Goldberger (1991), ["Aging and the complexity of cardiovascular dynamics"](www/biophysj00115-0183.pdf) *Biophysical Journal* **59**(4):945 link
+
+#. D Kaplan, L Glass (1996), "Nonlinear Dynamics in Physiology and Medicine" *Journal of Theoretical Biology*
+**178**( ):227–228 link
+
+#. Daniel T Kaplan, Mario Talajic (1991), "Dynamics of heart rate" *Chaos: An Interdisciplinary Journal of Nonlinear Science* **1**(3):251–256 link
+
+#. Berndt Pilgram, Daniel T Kaplan (1999), ["Nonstationarity and 1/f noise characteristics in heart rate"](www/pilgram-kaplan-1999-nonstationarity-and-1-f-noise-characteristics-in-heart-rate.pdf) *American Journal of Physiology – Regulatory, Integrative and Comparative Physiology* **276**(1):R1–R9 link
+
+#. Daniel T Kaplan, Richard J Cohen (1990) ["Is fibrillation chaos?"](www/kaplan-cohen-1990-is-fibrillation-chaos.pdf) *Circulation Research* **67**(4):886–892link
+
+28. David S Rosenbaum, Daniel T Kaplan, Anthony Kanai, Lance Jackson, Hasan Garan, Richard J Cohen, Guy Salama (1991) ["Repolarization inhomogeneities in ventricular myocardium change dynamically with abrupt cycle length shortening."](www/rosenbaum-et-al-1991-repolarization-inhomogeneities-in-ventricular-myocardium-change-dynamically-with-abrupt-cycle.pdf)  *Circulation* **84**(3):1333–1345 
+
+29. Daniel T Kaplan, Joseph M Smith, Bo EH Saxberg, Richard J Cohen (1988) ["Nonlinear dynamics in cardiac conduction"](https://pubmed.ncbi.nlm.nih.gov/11539069/)  *Mathematical biosciences* **90**(1-2):19–48
+
+30. Naoto Burioka, Germaine Cornélissen, Franz Halberg, Daniel T Kaplan, Hisashi Suyama, Takanori Sako, Eiji Shimizu (2003) ["Approximate entropy of human respiratory movement during eye-closed waking and different sleep stages"](https://pubmed.ncbi.nlm.nih.gov/12527606/)  *Chest* **123**(1):80–86
+
+31. Leon Glass, Daniel Kaplan (1993) ["Time series analysis of complex dynamics in physiology and medicine"](www/time-series-complex-dynamics.pdf)  *Medical Progress through Technology* **19**(3):115-128
+
+32. P Caminal, L Dominge, BF Giraldo, M Vallverdú, S Benito, G Vázquez, D Kaplan (2004) "Variability analysis of the respiratory volume based on non-linear prediction methods"  *Medical and Biological Engineering and Computing* **42**(1):86–91 link
+
+33. Naoto Burioka, Masanori Miyata, Germaine Cornélissen, Franz Halberg, Takao Takeshima, Daniel T Kaplan, Hisashi Suyama, Masanori Endo, Yoshihiro Maegaki, Takashi Nomura (2005) "Approximate entropy in the electroencephalogram during wake and sleep"  *Clinical EEG and neuroscience* **36**(1):21–24 
+
+34. Daniel T Kaplan, Richard J Cohen (1990) ["Searching for Chaos in Fibrillation"](www/Annals of the New York Academy of Sciences - June 1990 - KAPLAN - Searching for Chaos in Fibrillationa.pdf)  *Annals of the New York Academy of Sciences* 591(1):367–374
+
+35. M Jospin, EW Jensen, P Caminal, DT Kaplan, HUGO Vereecke, MMRF Struys (2006) "A new spectral index for assess- ing depth of anesthesia based on the cumulative power spectrum of the EEG: A-85"  *European Journal of Anaesthesiology (EJA)* **23**:22 
+
+36. Douglas Barnaby, Kevin Ferrick, Daniel T Kaplan, Sachin Shah, Polly Bijur, E John Gallagher (2002) "Heart rate vari- ability in emergency department patients with sepsis"  *Academic emergency medicine* **9**(7):661–670
+
+37. Naoto Burioka, Germaine Cornélissen, Yoshihiro Maegaki, Franz Halberg, Daniel T Kaplan, Masanori Miyata, Yasushi Fukuoka, Masahiro Endo, Hisashi Suyama, Yutaka Tomita (2005) "Approximate entropy of the electroencephalogram in healthy awake subjects and absence epilepsy patients"  *Clinical EEG and Neuroscience* **36**(3):188– 193 link
+
+38. Daniel T Kaplan, Ary L Goldberger (1991) ["Chaos in cardiology"](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-8167.1991.tb01331.x)  *Journal of Cardiovascular Electrophysiology* **2**(4):342–354 link
+
+39. Daniel T Kaplan (1991) ["Geometrical techniques for analyzing ECG dynamics"](https://www.sciencedirect.com/science/article/abs/pii/S0022073610800214?via%3Dihub) *Journal of electrocardiology* **24**():77– 82 link
+
+40. Daniel T Kaplan (2000) "Time series and the dynamics of demand pacing"  *Methods of information in medicine* **39**(2):114–117 link
+
+41. Daniel T Kaplan (1997) ["Nonlinearity and nonstationarity: the use of surrogate data in interpreting fluctuations"](www/hrv-surr.pdf)  *Studies in Health Technology and Informatics* ( ):15–281 link
+
+42. Dirk Hoyer, Daniel Kaplan, Milan Palus, Bernd Pompe, Henrik Seidel (1998) "New systems-analytical approaches to nonlinear coordination"  IEEE engineering in medicine and biology 17(6):58–61 link
+
+## Economics
+
+
+45. William A Barnett, A Ronald Gallant, Melvin J Hinich, Jochen A Jungeilges, Daniel T Kaplan, Mark J Jensen (1997) "A single-blind controlled competition among tests for nonlinearity and chaos"  *Journal of econometrics* **82**(1):157–192 
+
+44. William Barnett, Ronald Gallant, Melvin Hinch, Jochenand Jungeilges, Daniel Kaplan, Mark Jensen (1995) "Robustness of nonlinearity and chaos tests to measurement error, inference method, and sample size"  *Journal of Economic Behavior and Organization* **27**(2):301–320 
+
+## Engineering
+
+47. Mark S Roulston, Daniel T Kaplan, J Hardenberg, Leonard A Smith (2003) ["Using medium-range weather forcasts to improve the value of wind energy production"](www/52-UsingMRweatherForecastsTo-2003.pdf)  *Renewable Energy* **28**(4):585–602 
+
+46. Thomas Schreiber, Daniel T Kaplan (1996) "Signal separation by nonlinear projections: The fetal electrocardiogram"  *Physical Review E* **53**(5):R4326 link
+
+47. P Caminal, L Dominge, BF Giraldo, M Vallverdú, S Benito, G Vázquez, D Kaplan (2004) ["Variability analysis of the respiratory volume based on non-linear prediction methods"](www/article MBEC v.42,n.1,2004.pdf)  *Medical and Biological Engineering and Computing* **42**(1):86–91 
+
+48. Dirk Hoyer, Daniel Kaplan, Milan Palus, Bernd Pompe, Henrik Seidel (1998) "New systems-analytical approaches to nonlinear coordination"  *IEEE engineering in medicine and biology* **17**(6):58–61 
+
+49. Marcus Richter, Thomas Schreiber, Daniel T Kaplan (1998) "Fetal ECG extraction with nonlinear state-space projections"  *IEEE Transactions on Biomedical Engineering* **45**(1):133–137 
+

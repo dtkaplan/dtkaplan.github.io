@@ -1,0 +1,26 @@
+# R packages on CRAN
+
+
+## Project MOSAIC packages
+
+Initially funded by the NSF, Project MOSAIC is a community
+of educators working to tie together aspects of quantitative work that students in science, technology, engineering and mathematics will need in their professional lives, but which are usually taught in isolation, if at all. 
+
+- `{mosaic}`
+Project MOSAIC Statistics and Mathematics Teaching Utilities Data sets and utilities from Project MOSAIC (<http://www.mosaic-
+web.org>) used to teach mathematics, statistics, computation and modeling. 
+
+- `{ggformula}`
+A formula-based interface to the Grammar of Graphics and `{ggplot2}`.
+
+- `{mosaicData}` Data Sets Data sets from Project MOSAIC (<http://www.mosaic-web.org>) used to teach mathematics, statistics, computation and modeling. 
+
+- `{mosaicCalc}`
+R-Language based calculus operations  to support the introductory [*MOSAIC Calculus*](https://www.mosaic-web.org/MOSAIC-Calculus/) Provides symbolic and numerical differentiation and integration, as
+well as support for applied linear algebra (for data science), and differential equations/dynamics. Includes grammar-of-graphics-
+based functions for drawing vector fields, trajectories, etc. The software is suitable for general use, but intended mainly for
+teaching calculus. 
+
+## Lessons in Statistical Thinking
+
+- `{LST}` The *Lessons in Statistical Thinking* textbook uses a style of R that is extremely concise and consistent, making it easy for students to master the command patterns needed for statistical modeling and data wrangling with `{dplyr}`.

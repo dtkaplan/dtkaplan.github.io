@@ -12,7 +12,8 @@ website:
         text: Publications
       - href: CV.qmd
         text: CV
-      - about.qmd
+      - href: Rpackages.qmd
+        text: R/CRAN packages
 
 format:
   html:
