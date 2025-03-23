@@ -8,7 +8,12 @@ My earliest publication, from my college days, was an analysis of defense policy
 
 For the last 30 years, my professional work has focused on university-level education in applied math and statistics. The several student-facing textbooks I have authored are listed on my [CV](CV.html#Textbooks). The following publications are from professional journals:
 
-2. Daniel Kaplan (2018), ["Teaching stats for data science"](www/TeachingStatsforDataScience.pdf) *The American Statistician* **72**(1):89–96
+
+1. Daniel Kaplan (2025) "Philosophy of StatPREP" [*Using Data-Centric Methods to Teach Introductory Statistics*](www/NTE99.pdf) Mathematical Association of America, Notes **99**
+
+#. Daniel Kaplan (2025) "StatPREP Tools: The 'Little Apps'" [*Using Data-Centric Methods to Teach Introductory Statistics*](www/NTE99.pdf) Mathematical Association of America, Notes **99**
+
+#. Daniel Kaplan (2018), ["Teaching stats for data science"](www/TeachingStatsforDataScience.pdf) *The American Statistician* **72**(1):89–96
 
 #. Randall Pruim, Daniel T Kaplan, Nicholas J Horton (2017), ["The mosaic Package: Helping Students to ‘Think with Data’ Using R"](www/RJ-2017-024.pdf) *R Journal* **9**(1)
 
@@ -22,7 +27,7 @@ For the last 30 years, my professional work has focused on university-level educ
 
 ## Physics
 
-8. Daniel T Kaplan, Leon Glass (1992), ["Direct test for determinism in a time series"](www/direct-test-PRL.pdf) *Physical Review Letters* **68**(4):427
+10. Daniel T Kaplan, Leon Glass (1992), ["Direct test for determinism in a time series"](www/direct-test-PRL.pdf) *Physical Review Letters* **68**(4):427
 
 #. Daniel T Kaplan, John R Clay, Timothy Manning, Leon Glass, Michael R Guevara, Alvin Shrier (1996), ["Subthreshold dynamics in periodically stimulated squid giant axons"](www/subthreshold-PRL.pdf) *Physical Review Letters* 76(21):4074 
 
@@ -58,7 +63,7 @@ For the last 30 years, my professional work has focused on university-level educ
 ## Physiology and Medicine
 
 
-23. Philippe Faure, Daniel Kaplan, Henri Korn (2000), ["Synaptic efficacy and the transmission of complex firing patterns between neurons"](www/signal-flag-patterns.pdf) *Journal of neurophysiology* **84**(6):3010–3025 link
+25. Philippe Faure, Daniel Kaplan, Henri Korn (2000), ["Synaptic efficacy and the transmission of complex firing patterns between neurons"](www/signal-flag-patterns.pdf) *Journal of neurophysiology* **84**(6):3010–3025 link
 
 #. Daniel T Kaplan (1994) "The analysis of variability" *Journal of cardiovascular electrophysiology* **5**(1):16–19
 
@@ -73,52 +78,52 @@ For the last 30 years, my professional work has focused on university-level educ
 
 #. Daniel T Kaplan, Richard J Cohen (1990) ["Is fibrillation chaos?"](www/kaplan-cohen-1990-is-fibrillation-chaos.pdf) *Circulation Research* **67**(4):886–892link
 
-28. David S Rosenbaum, Daniel T Kaplan, Anthony Kanai, Lance Jackson, Hasan Garan, Richard J Cohen, Guy Salama (1991) ["Repolarization inhomogeneities in ventricular myocardium change dynamically with abrupt cycle length shortening."](www/rosenbaum-et-al-1991-repolarization-inhomogeneities-in-ventricular-myocardium-change-dynamically-with-abrupt-cycle.pdf)  *Circulation* **84**(3):1333–1345 
+#. David S Rosenbaum, Daniel T Kaplan, Anthony Kanai, Lance Jackson, Hasan Garan, Richard J Cohen, Guy Salama (1991) ["Repolarization inhomogeneities in ventricular myocardium change dynamically with abrupt cycle length shortening."](www/rosenbaum-et-al-1991-repolarization-inhomogeneities-in-ventricular-myocardium-change-dynamically-with-abrupt-cycle.pdf)  *Circulation* **84**(3):1333–1345 
 
-29. Daniel T Kaplan, Joseph M Smith, Bo EH Saxberg, Richard J Cohen (1988) ["Nonlinear dynamics in cardiac conduction"](https://pubmed.ncbi.nlm.nih.gov/11539069/)  *Mathematical biosciences* **90**(1-2):19–48
+#. Daniel T Kaplan, Joseph M Smith, Bo EH Saxberg, Richard J Cohen (1988) ["Nonlinear dynamics in cardiac conduction"](https://pubmed.ncbi.nlm.nih.gov/11539069/)  *Mathematical biosciences* **90**(1-2):19–48
 
-30. Naoto Burioka, Germaine Cornélissen, Franz Halberg, Daniel T Kaplan, Hisashi Suyama, Takanori Sako, Eiji Shimizu (2003) ["Approximate entropy of human respiratory movement during eye-closed waking and different sleep stages"](https://pubmed.ncbi.nlm.nih.gov/12527606/)  *Chest* **123**(1):80–86
+#. Naoto Burioka, Germaine Cornélissen, Franz Halberg, Daniel T Kaplan, Hisashi Suyama, Takanori Sako, Eiji Shimizu (2003) ["Approximate entropy of human respiratory movement during eye-closed waking and different sleep stages"](https://pubmed.ncbi.nlm.nih.gov/12527606/)  *Chest* **123**(1):80–86
 
-31. Leon Glass, Daniel Kaplan (1993) ["Time series analysis of complex dynamics in physiology and medicine"](www/time-series-complex-dynamics.pdf)  *Medical Progress through Technology* **19**(3):115-128
+#. Leon Glass, Daniel Kaplan (1993) ["Time series analysis of complex dynamics in physiology and medicine"](www/time-series-complex-dynamics.pdf)  *Medical Progress through Technology* **19**(3):115-128
 
-32. P Caminal, L Dominge, BF Giraldo, M Vallverdú, S Benito, G Vázquez, D Kaplan (2004) "Variability analysis of the respiratory volume based on non-linear prediction methods"  *Medical and Biological Engineering and Computing* **42**(1):86–91 link
+#. P Caminal, L Dominge, BF Giraldo, M Vallverdú, S Benito, G Vázquez, D Kaplan (2004) "Variability analysis of the respiratory volume based on non-linear prediction methods"  *Medical and Biological Engineering and Computing* **42**(1):86–91 link
 
-33. Naoto Burioka, Masanori Miyata, Germaine Cornélissen, Franz Halberg, Takao Takeshima, Daniel T Kaplan, Hisashi Suyama, Masanori Endo, Yoshihiro Maegaki, Takashi Nomura (2005) "Approximate entropy in the electroencephalogram during wake and sleep"  *Clinical EEG and neuroscience* **36**(1):21–24 
+#. Naoto Burioka, Masanori Miyata, Germaine Cornélissen, Franz Halberg, Takao Takeshima, Daniel T Kaplan, Hisashi Suyama, Masanori Endo, Yoshihiro Maegaki, Takashi Nomura (2005) "Approximate entropy in the electroencephalogram during wake and sleep"  *Clinical EEG and neuroscience* **36**(1):21–24 
 
-34. Daniel T Kaplan, Richard J Cohen (1990) ["Searching for Chaos in Fibrillation"](www/Annals of the New York Academy of Sciences - June 1990 - KAPLAN - Searching for Chaos in Fibrillationa.pdf)  *Annals of the New York Academy of Sciences* 591(1):367–374
+#. Daniel T Kaplan, Richard J Cohen (1990) ["Searching for Chaos in Fibrillation"](www/Annals of the New York Academy of Sciences - June 1990 - KAPLAN - Searching for Chaos in Fibrillationa.pdf)  *Annals of the New York Academy of Sciences* 591(1):367–374
 
-35. M Jospin, EW Jensen, P Caminal, DT Kaplan, HUGO Vereecke, MMRF Struys (2006) "A new spectral index for assess- ing depth of anesthesia based on the cumulative power spectrum of the EEG: A-85"  *European Journal of Anaesthesiology (EJA)* **23**:22 
+#. M Jospin, EW Jensen, P Caminal, DT Kaplan, HUGO Vereecke, MMRF Struys (2006) "A new spectral index for assess- ing depth of anesthesia based on the cumulative power spectrum of the EEG: A-85"  *European Journal of Anaesthesiology (EJA)* **23**:22 
 
-36. Douglas Barnaby, Kevin Ferrick, Daniel T Kaplan, Sachin Shah, Polly Bijur, E John Gallagher (2002) "Heart rate vari- ability in emergency department patients with sepsis"  *Academic emergency medicine* **9**(7):661–670
+#. Douglas Barnaby, Kevin Ferrick, Daniel T Kaplan, Sachin Shah, Polly Bijur, E John Gallagher (2002) "Heart rate vari- ability in emergency department patients with sepsis"  *Academic emergency medicine* **9**(7):661–670
 
-37. Naoto Burioka, Germaine Cornélissen, Yoshihiro Maegaki, Franz Halberg, Daniel T Kaplan, Masanori Miyata, Yasushi Fukuoka, Masahiro Endo, Hisashi Suyama, Yutaka Tomita (2005) "Approximate entropy of the electroencephalogram in healthy awake subjects and absence epilepsy patients"  *Clinical EEG and Neuroscience* **36**(3):188– 193 link
+#. Naoto Burioka, Germaine Cornélissen, Yoshihiro Maegaki, Franz Halberg, Daniel T Kaplan, Masanori Miyata, Yasushi Fukuoka, Masahiro Endo, Hisashi Suyama, Yutaka Tomita (2005) "Approximate entropy of the electroencephalogram in healthy awake subjects and absence epilepsy patients"  *Clinical EEG and Neuroscience* **36**(3):188– 193 link
 
-38. Daniel T Kaplan, Ary L Goldberger (1991) ["Chaos in cardiology"](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-8167.1991.tb01331.x)  *Journal of Cardiovascular Electrophysiology* **2**(4):342–354 link
+#. Daniel T Kaplan, Ary L Goldberger (1991) ["Chaos in cardiology"](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-8167.1991.tb01331.x)  *Journal of Cardiovascular Electrophysiology* **2**(4):342–354 link
 
-39. Daniel T Kaplan (1991) ["Geometrical techniques for analyzing ECG dynamics"](https://www.sciencedirect.com/science/article/abs/pii/S0022073610800214?via%3Dihub) *Journal of electrocardiology* **24**():77– 82 link
+#. Daniel T Kaplan (1991) ["Geometrical techniques for analyzing ECG dynamics"](https://www.sciencedirect.com/science/article/abs/pii/S0022073610800214?via%3Dihub) *Journal of electrocardiology* **24**():77– 82 link
 
-40. Daniel T Kaplan (2000) "Time series and the dynamics of demand pacing"  *Methods of information in medicine* **39**(2):114–117 link
+#. Daniel T Kaplan (2000) "Time series and the dynamics of demand pacing"  *Methods of information in medicine* **39**(2):114–117 link
 
-41. Daniel T Kaplan (1997) ["Nonlinearity and nonstationarity: the use of surrogate data in interpreting fluctuations"](www/hrv-surr.pdf)  *Studies in Health Technology and Informatics* ( ):15–281 link
+#. Daniel T Kaplan (1997) ["Nonlinearity and nonstationarity: the use of surrogate data in interpreting fluctuations"](www/hrv-surr.pdf)  *Studies in Health Technology and Informatics* ( ):15–281 link
 
-42. Dirk Hoyer, Daniel Kaplan, Milan Palus, Bernd Pompe, Henrik Seidel (1998) "New systems-analytical approaches to nonlinear coordination"  IEEE engineering in medicine and biology 17(6):58–61 link
+#. Dirk Hoyer, Daniel Kaplan, Milan Palus, Bernd Pompe, Henrik Seidel (1998) "New systems-analytical approaches to nonlinear coordination"  IEEE engineering in medicine and biology 17(6):58–61 link
 
 ## Economics
 
 
-45. William A Barnett, A Ronald Gallant, Melvin J Hinich, Jochen A Jungeilges, Daniel T Kaplan, Mark J Jensen (1997) "A single-blind controlled competition among tests for nonlinearity and chaos"  *Journal of econometrics* **82**(1):157–192 
+47. William A Barnett, A Ronald Gallant, Melvin J Hinich, Jochen A Jungeilges, Daniel T Kaplan, Mark J Jensen (1997) "A single-blind controlled competition among tests for nonlinearity and chaos"  *Journal of econometrics* **82**(1):157–192 
 
-44. William Barnett, Ronald Gallant, Melvin Hinch, Jochenand Jungeilges, Daniel Kaplan, Mark Jensen (1995) "Robustness of nonlinearity and chaos tests to measurement error, inference method, and sample size"  *Journal of Economic Behavior and Organization* **27**(2):301–320 
+#. William Barnett, Ronald Gallant, Melvin Hinch, Jochenand Jungeilges, Daniel Kaplan, Mark Jensen (1995) "Robustness of nonlinearity and chaos tests to measurement error, inference method, and sample size"  *Journal of Economic Behavior and Organization* **27**(2):301–320 
 
 ## Engineering
 
-47. Mark S Roulston, Daniel T Kaplan, J Hardenberg, Leonard A Smith (2003) ["Using medium-range weather forcasts to improve the value of wind energy production"](www/52-UsingMRweatherForecastsTo-2003.pdf)  *Renewable Energy* **28**(4):585–602 
+49. Mark S Roulston, Daniel T Kaplan, J Hardenberg, Leonard A Smith (2003) ["Using medium-range weather forcasts to improve the value of wind energy production"](www/52-UsingMRweatherForecastsTo-2003.pdf)  *Renewable Energy* **28**(4):585–602 
 
-46. Thomas Schreiber, Daniel T Kaplan (1996) "Signal separation by nonlinear projections: The fetal electrocardiogram"  *Physical Review E* **53**(5):R4326 link
+#. Thomas Schreiber, Daniel T Kaplan (1996) "Signal separation by nonlinear projections: The fetal electrocardiogram"  *Physical Review E* **53**(5):R4326 link
 
-47. P Caminal, L Dominge, BF Giraldo, M Vallverdú, S Benito, G Vázquez, D Kaplan (2004) ["Variability analysis of the respiratory volume based on non-linear prediction methods"](www/article MBEC v.42,n.1,2004.pdf)  *Medical and Biological Engineering and Computing* **42**(1):86–91 
+#. P Caminal, L Dominge, BF Giraldo, M Vallverdú, S Benito, G Vázquez, D Kaplan (2004) ["Variability analysis of the respiratory volume based on non-linear prediction methods"](www/article MBEC v.42,n.1,2004.pdf)  *Medical and Biological Engineering and Computing* **42**(1):86–91 
 
-48. Dirk Hoyer, Daniel Kaplan, Milan Palus, Bernd Pompe, Henrik Seidel (1998) "New systems-analytical approaches to nonlinear coordination"  *IEEE engineering in medicine and biology* **17**(6):58–61 
+#. Dirk Hoyer, Daniel Kaplan, Milan Palus, Bernd Pompe, Henrik Seidel (1998) "New systems-analytical approaches to nonlinear coordination"  *IEEE engineering in medicine and biology* **17**(6):58–61 
 
-49. Marcus Richter, Thomas Schreiber, Daniel T Kaplan (1998) "Fetal ECG extraction with nonlinear state-space projections"  *IEEE Transactions on Biomedical Engineering* **45**(1):133–137 
+#. Marcus Richter, Thomas Schreiber, Daniel T Kaplan (1998) "Fetal ECG extraction with nonlinear state-space projections"  *IEEE Transactions on Biomedical Engineering* **45**(1):133–137 
 

@@ -1,6 +1,6 @@
 ---
 title: "Daniel T. Kaplan"
-subtitle: "Curriculum Vitae, June 2024"
+subtitle: "Curriculum Vitae, March 2025"
 format:
   html:
     toc: true
@@ -17,7 +17,7 @@ website | danielkaplan.org
 
 My career has spanned several periods: a biomedical-engineering period when I was involved in signal processing using emerging tools from nonlinear dynamics, a physiology period as a researcher and a teacher of pre-medical physiology and biology courses, a period as an applied-mathematics/computational-science educator which has segued into statistics, statistical modeling, data science, and machine learning. In each of these periods, I have developed texts and other learning materials across a variety of fields: introductory statistics, computational-statistics & data-science, introductory calculus (taught as an applied  subject), computer programming, and epidemiology. Over the past 15 years, I have worked extensively with faculty from colleges nationwide to develop their professional and computational skills in teaching the core mathematics curriculum and statistics in a genuinely applied way. I have a national and international reputation for this work. [This interview from the *Journal of Statistics Education*](https://www.dropbox.com/s/xd94rfyuwaprhbs/JSE-interview.pdf?dl=0) captures much of the motivation and philosophy behind this work.
 
-A constant throughout my career has been computation. I learned to program as a 14-year old and  have worked professionally with a large variety of languages including (in roughly chronological order) BASIC, FORTRAN, APL, UNIX web scripting, C, Mathematica, C++, Scheme, MATLAB, and R, and the many auxiliary systems relating to typesetting, publishing, graphics, and websites. It can't be known for sure, but I am likely the first person in North America to teach introductory statistics with R (starting 1997), and I was one of the earliest course developers in Mathematica (circa 1990).
+A constant throughout my career has been computation. I learned to program as a 14-year old and have worked professionally with a large variety of languages including (in roughly chronological order) BASIC, FORTRAN, APL, UNIX web scripting, C, Mathematica, C++, Scheme, MATLAB, and R, and the many auxiliary systems relating to typesetting, publishing, graphics, and websites. It can't be known for sure, but I am likely the first person in North America to teach introductory statistics with R (starting 1997) and I was one of the earliest course developers in Mathematica (circa 1990). The reader familiar with RStudio/Posit, might be interested to see [this keynote presentation about Shiny](https://www.youtube.com/watch?v=HpqLXB_TnpI) (at time 2:50) or [this interview](https://www.youtube.com/watch?v=elG0gvnaSIs&feature=youtu.be) with one of the two founders of RStudio/Posit. (See time 7:25.)
 
 <!-- Interview with Joe Cheng referring to my involvement with RStudio https://www.youtube.com/watch?v=elG0gvnaSIs&feature=youtu.be at 7:25 -->
 
@@ -25,6 +25,7 @@ A constant throughout my career has been computation. I learned to program as a 
 
 <!-- --> | <!-- --> | <!-- -->
 :-----|:-------------|:--------
+2025-   | **Distinguished Visiting Professor** | University of Austin
 2020-2023 | **Academy Research and Development Institute (ARDI) Distinguished Visiting Professor and Coors Chair** | United States Air Force Academy
 2021-present | **DeWitt Wallace Professor Emeritus** | Macalester College
 2006-2021 | **DeWitt Wallace Professor of Mathematics, Statistics, and Computer Science** | Macalester College
@@ -34,11 +35,10 @@ A constant throughout my career has been computation. I learned to program as a 
 1991-1994 | **Post-doctoral Fellow** | McGill University Faculty of Medicine
 1989-1991 | **Scientist** | Colin Medical Instruments (Japan)
 
-## Visiting Appointments
+## Short-term Visiting Appointments
 
 <!-- --> | <!-- --> | <!-- -->
 :-----|:-------------|:--------
-2020-2023 | United States Air Force Academy | Distinguished visiting professor
 2017 | Institute for Math and its Applications, University of Minnesota | Invited instructor
 2010 | Royal Melbourne Institute of Technology | Visiting scholar
 2008 | University of Queensland (Australia) | Visiting scholar
@@ -85,7 +85,9 @@ ization with R*, Project MOSAIC Books
 
 ### Applied Mathematics
 
-8. Daniel T Kaplan (2022), [*MOSAIC Calculus*](https://www.mosaic-web.org/MOSAIC-Calculus/), Project MOSAIC
+8. Daniel T Kaplan (2025), [*MOSAIC Calculus*](https://www.mosaic-web.org/MOSAIC-Calculus/), Project MOSAIC
+
+#. Daniel T. Kaplan (2024) [*UATX Computing Tutorials: Data and Modeling*](https://dtkaplan.github.io/QR2-computing/)
 
 #. Daniel T Kaplan (2013), [*Start R in Calculus*](https://www.amazon.com/Start-Calculus-Daniel-T-Kaplan/dp/0983965897), Project Mosaic Books
 
@@ -99,14 +101,30 @@ ization with R*, Project MOSAIC Books
 
 ### R (statistics language)
 
-13. Nicholas J Horton, Randall Pruim, Daniel T Kaplan (2015), [*Student’s Guide to R*](www/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf), Project MOSAIC Books
+14. Nicholas J Horton, Randall Pruim, Daniel T Kaplan (2015), [*Student’s Guide to R*](www/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf), Project MOSAIC Books
 
 #. Randall Pruim, Nicholas J Horton, Daniel T Kaplan (2015), [*Start Teaching with R*](www/MOSAIC-StartTeaching.pdf), Project MOSAIC Books
 
+### R Software and Apps
 
+Most of my books involve computing, often extensively. This took the form, early on, of inserting computer commands and output into the text itself. For courses in computational science or programming, hese commands were written in a raw language that a student could install on his or her machine, e.g. R or MATLAB. As I introduced computing into non-programming classes, I needed a way to *avoid* having programming as a pre-requisite. Correspondingly, I started to develop a streamlined style with a minimum of computer object types and a consistent interface. I also developed web apps that enabled students to use a mouse as their interface to the language. Since 2020, my books have integrated computing in an interactive way, directly from the document. 
 
+In terms of use and readership, these R-language packages are my most successful "publications," often attracting tens of thousands of users. All are currently available via CRAN, the official distribution channel for R. 
 
+- Randall Pruim and Daniel T. Kaplan: `{mosaic}` for statistics
+- Daniel T. Kaplan: `{mosaicCalc}` for teaching calculus
+- Daniel T. Kaplan: `{LSTbook}` for a modeling-based approach to statistics
+- Randall Pruim and Daniel T. Kaplan: `{ggformula}`
 
+Web apps that use this software:
 
+My earliest collection of apps, from more than 15 years ago, was written in a prototype system, `{manipulate}` still available in RStudio.
 
+- Andrew Rich, Daniel Kaplan, Randall Pruim, Nicholas J. Horton, J.J. Allaire (2012 poster) "[mosaicManip: Interactive Applets for Teaching with R](www/mosaicManipulate-poster.pdf)"
+
+The collections of apps I wrote for StatPREP, an NSF-sponsored project for which I was a co-PI:
+
+- Daniel T. Kaplan ["Little Apps for Teaching Stats"](https://www.statprep.org/LittleAppSite/)
+
+The collection of a dozen apps I wrote for *MOSAIC Calculus* is still being gathered together in a unified form.
 
